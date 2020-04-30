@@ -1,0 +1,5 @@
+This code was an develop on socket.io of the package of node js.
+so you can easily download and try it in your computer.
+
+Thank you 
+Ankit Upadhyay(MEAN Stack Develper)
